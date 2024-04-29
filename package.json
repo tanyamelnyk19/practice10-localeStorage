@@ -15,7 +15,7 @@
   "author": "Tanya Melnyk <den.tani19@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tanyamelnyk19/practice10-localeStorage/issues"
+    "url": "https://github.com/tanyamelnyk19/practice10-localeStorage"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
